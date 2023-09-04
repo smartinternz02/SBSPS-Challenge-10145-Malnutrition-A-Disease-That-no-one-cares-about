@@ -31,7 +31,7 @@ During the development phase, extensive data analysis was conducted to validate 
  - Users can view malnutrition analytics and reports through iframe which will  redirect to IBM Cognos platform and personally users can view their BMI.
 - Additionally, users may monitor government initiatives to confront malnutrition and articles related to malnutrition.
 - Here we have used  react framework.
--
+
 *Backend*:
 - The server side program is developed using Node and Express js.
 - IBM Cognos Analytics: 
