@@ -2,6 +2,11 @@
 Malnutrition: A Disease That no one cares about
 
 # Nutri Spectrum - Visualizing the healthier world
+
+*Check out our website here* : https://nutrispectrum.d1xsos4r1nx7hh.amplifyapp.com/
+
+*Demonstration of website* : https://drive.google.com/drive/folders/1ZmmSpNBWf44gmK24bbCq5AQqEaTYMjYQ
+
 ### INTRODUCTION
 - #### Overview
 The "Nutri Spectrum Application" addresses the critical global issue of malnutrition, aiming to provide comprehensive insights, personalised recommendations, and statistics related to malnutrition across countries and states in India. This platform leverages the capabilities of the IBM Cognos analytics platform to enable data-driven decision-making and raise awareness about malnutrition's impact on health and well-being.
