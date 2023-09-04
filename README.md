@@ -48,15 +48,17 @@ During the development phase, extensive data analysis was conducted to validate 
 ## To view project in your machine
 - Clone the repo
 - Run frontend
-      sh
+    ```  sh
      cd client
      npm install
      npm start
+    ```
      
 - Run backend
-      sh
+   ``` sh
      cd server
      npm install
      node app.js
+     ```
      
 > Node runtime and npm packages are prerequisites to run above commands
