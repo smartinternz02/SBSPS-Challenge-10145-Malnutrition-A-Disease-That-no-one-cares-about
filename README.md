@@ -62,3 +62,6 @@ During the development phase, extensive data analysis was conducted to validate 
      ```
      
 > Node runtime and npm packages are prerequisites to run above commands
+
+*Check out our website here* : https://nutrispectrum.d1xsos4r1nx7hh.amplifyapp.com/
+*Demonstration of website* :
