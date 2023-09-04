@@ -65,4 +65,4 @@ During the development phase, extensive data analysis was conducted to validate 
 
 *Check out our website here* : https://nutrispectrum.d1xsos4r1nx7hh.amplifyapp.com/
 
-*Demonstration of website* : https://drive.google.com/file/d/1y9PCFfhbEbjLqXwrYmYmDeLvM9PGQxSE/view?usp=drive_link
+*Demonstration of website* : https://drive.google.com/drive/folders/1ZmmSpNBWf44gmK24bbCq5AQqEaTYMjYQ
