@@ -14,11 +14,12 @@ The problem of malnutrition remains a significant challenge worldwide, impacting
 Our solution involves creating an online platform that combines user-specific data, analytics, and visualisations to provide insights into malnutrition trends. By using the IBM Cognos analytics platform, we offer personalised recommendations to users based on the user BMI to address their nutritional needs effectively and show different analytics visualisations country wise over the world and state wise over India.
 ### THEORETICAL ANALYSIS
 - #### Block Diagram
-     ![Project Logo]![0859c842-f82c-49ab-872e-f4baa633f3f7](https://github.com/smartinternz02/SBSPS-Challenge-10145-Malnutrition-A-Disease-That-no-one-cares-about/assets/94107398/f43a16eb-93c9-4873-86fe-8e6fa3092666)
+     ![0859c842-f82c-49ab-872e-f4baa633f3f7](https://github.com/smartinternz02/SBSPS-Challenge-10145-Malnutrition-A-Disease-That-no-one-cares-about/assets/94107398/f43a16eb-93c9-4873-86fe-8e6fa3092666)
 
 - #### Application workflow
-   ![Project Logo](https://drive.google.com/file/d/1TEH280-FgSGpPkzDOqhPzRC88enu5EAT/view)
-- #### Hardware / Software Designing
+   ![6903f1d7-022e-40d2-a88a-54117f2dec18](https://github.com/smartinternz02/SBSPS-Challenge-10145-Malnutrition-A-Disease-That-no-one-cares-about/assets/94107398/865efb58-298b-4b71-9aa5-6bc9b4ada92a)
+
+   - #### Hardware / Software Designing
   *Hardware Requirements*: Personal computer or mobile device with internet access.
 *Software Requirements*: Cognos analytics platform, web browser.
 Before logging onto a website, users should be logged into the IBM Cognitive Analytic Platform.
